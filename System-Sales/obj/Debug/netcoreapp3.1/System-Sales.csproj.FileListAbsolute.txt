@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\bin\Debug\netcoreapp3.1\System-Sales.exe
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\bin\Debug\netcoreapp3.1\System-Sales.deps.json
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\bin\Debug\netcoreapp3.1\System-Sales.runtimeconfig.json
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\bin\Debug\netcoreapp3.1\System-Sales.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\bin\Debug\netcoreapp3.1\System-Sales.dll
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\bin\Debug\netcoreapp3.1\System-Sales.pdb
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.dll
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.pdb
+C:\Users\Lenovo\source\repos\System-Sales\System-Sales\obj\Debug\netcoreapp3.1\System-Sales.genruntimeconfig.cache
